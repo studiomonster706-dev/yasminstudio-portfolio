@@ -96,11 +96,12 @@ body {
 
 
 /* ================================
-   HOVER
+   BUTTON HOVER
 ================================ */
 
 .enter-button:hover {
     background: #ffffff;
+
     color: #000000;
 
     transform:
@@ -110,7 +111,7 @@ body {
 
 
 /* ================================
-   FOCUS
+   BUTTON FOCUS
 ================================ */
 
 .enter-button:focus-visible {
